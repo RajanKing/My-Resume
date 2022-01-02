@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-<!-- saved from url=(0036)file:///D:/Novor%C3%A9sum%C3%A9.html -->
 <html lang="en-US" xml:lang="en-US" id="q1xr_q-html" class=""><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     
     <link type="text/css" rel="stylesheet" href="./Novorésumé_files/c7e90320-625d-11ec-9081-af61e9126c5c-yna-side.min.css">
